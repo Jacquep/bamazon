@@ -12,6 +12,11 @@ The Bamazon Customer Portal allows users to view the current items available for
 
 ![Welcome to Bamazon!](https://github.com/Jacquep/bamazon/blob/master/bamazon1.png)
 
+If the user enters an invalid ID # they will be prompted to re-enter the ID #
+
+![Incorrect ID#]()
+
+
 #### Contributors:
 ***
 

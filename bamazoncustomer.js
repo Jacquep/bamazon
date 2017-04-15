@@ -43,6 +43,7 @@ var displayAndBuyProducts = function() {
             // check that the input is a number
             validate: function(value) {
                 if (value < 1 || value > res.length || isNaN(value) == true) {
+                    console.log(" is an invalid ID #");
                     return false;
                 }
                 return true;
