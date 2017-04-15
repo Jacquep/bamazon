@@ -14,7 +14,7 @@ The Bamazon Customer Portal allows users to view the current items available for
 
 If the user enters an invalid ID # they will be prompted to re-enter the ID #
 
-![Incorrect ID#]()
+![Incorrect ID#](https://github.com/Jacquep/bamazon/blob/master/bamazon2.png)
 
 
 #### Contributors:
